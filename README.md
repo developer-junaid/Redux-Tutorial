@@ -4,3 +4,4 @@
 
 ### Explained with a "Simple" _Counter_ Example using ReactJs and React Redux
 
+<img src="./projectImages/reduxCounter.png" />
